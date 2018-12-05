@@ -1,0 +1,30 @@
+{
+  "algorithm" : "K-means",
+  "WSSE" : 30693.27455301045,
+  "clusters" : [ {
+    "id" : 0,
+    "size" : 989,
+    "error" : 5263.727535647876,
+    "terms" : [ "marscapone", "misters", "spreads", "grilled", "appetizer", "gums", "fingerling", "scottsdale", "entree", "shared" ]
+  }, {
+    "id" : 1,
+    "size" : 1,
+    "error" : 0.0,
+    "terms" : [ "instructors", "kids", "lessons", "learn", "pool", "classes", "studio", "yoga", "class", "swim" ]
+  }, {
+    "id" : 2,
+    "size" : 3,
+    "error" : 12.069483161002793,
+    "terms" : [ "salmon", "cooked", "perfectly", "mignon", "pb", "app", "filet", "crab", "potatoes", "mashed" ]
+  }, {
+    "id" : 3,
+    "size" : 6,
+    "error" : 27.582688708228634,
+    "terms" : [ "flor", "weary", "cali", "gracias", "tummy", "gurl", "bakery", "la", "tolteca", "temptation" ]
+  }, {
+    "id" : 4,
+    "size" : 1,
+    "error" : 0.0,
+    "terms" : [ "would", "get", "us", "one", "time", "like", "great", "place", "good", "food" ]
+  } ]
+}

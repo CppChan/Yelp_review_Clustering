@@ -1,0 +1,45 @@
+{
+  "algorithm" : "K-means",
+  "WSSE" : 30378.243069654032,
+  "clusters" : [ {
+    "id" : 0,
+    "size" : 1,
+    "error" : 0.0,
+    "terms" : [ "get", "go", "us", "one", "time", "like", "great", "place", "good", "food" ]
+  }, {
+    "id" : 1,
+    "size" : 961,
+    "error" : 28825.81808139967,
+    "terms" : [ "blood", "giddy", "stepfather", "bonavista", "inn", "fantabulous", "mother", "brunch", "lake", "chose" ]
+  }, {
+    "id" : 2,
+    "size" : 1,
+    "error" : 0.0,
+    "terms" : [ "deliciousa", "vegassome", "joses", "saltair", "amazingservice", "greatfood", "notesthe", "importanly", "genius", "backgound" ]
+  }, {
+    "id" : 3,
+    "size" : 1,
+    "error" : 0.0,
+    "terms" : [ "decreased", "judgment", "visitor", "oftenthe", "mucheveryone", "establishmentive", "lackingthe", "hearsay", "infrequent", "tehran" ]
+  }, {
+    "id" : 4,
+    "size" : 1,
+    "error" : 0.0,
+    "terms" : [ "call", "class", "knew", "things", "done", "sales", "clothes", "store", "daughter", "help" ]
+  }, {
+    "id" : 5,
+    "size" : 33,
+    "error" : 1552.424988253742,
+    "terms" : [ "e320", "benz", "mercedes", "exteriors", "fortunate", "shape", "dealership", "beautiful", "runs", "cars" ]
+  }, {
+    "id" : 6,
+    "size" : 1,
+    "error" : 0.0,
+    "terms" : [ "eyebrow", "430", "parting", "huff", "usplace", "crab", "hostess", "count", "legs", "spotted" ]
+  }, {
+    "id" : 7,
+    "size" : 1,
+    "error" : 0.0,
+    "terms" : [ "pudding", "dumpling", "dulce", "plain", "concha", "leche", "button", "churros", "churro", "panchos" ]
+  } ]
+}

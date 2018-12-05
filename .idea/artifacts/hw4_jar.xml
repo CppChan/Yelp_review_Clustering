@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hw4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hw4_jar</output-path>
+    <root id="archive" name="hw4.jar">
+      <element id="module-output" name="hw4" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-mllib_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/json4s-jackson_2.11-3.2.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-mllib-local_2.11-2.3.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
